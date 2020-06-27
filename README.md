@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/nick-abbGit/Tik-tok-demo-react-native/blob/master/assets/tiktoklogo.png" alt="tiktoklogo" width="120">
+  <img src="https://github.com/timmysGit/Tiktok-demo-react-native/blob/master/assets/tiktoklogo.png" alt="tiktoklogo" width="120">
 <br>
 <br>
 TikTokClone
@@ -15,8 +15,8 @@ TikTokClone
 </p>
 
 <div align="center">
-  <img align="center" src="https://github.com/nick-abbGit/Tik-tok-demo-react-native/blob/master/tiktok.gif" alt="demo" height="425">
-  <img align="center" src="https://github.com/nick-abbGit/Tik-tok-demo-react-native/blob/master/tiktokfeed.gif" alt="demo" height="425">
+  <img align="center" src="https://github.com/timmysGit/Tiktok-demo-react-native/blob/master/tiktok.gif" alt="demo" height="425">
+  <img align="center" src="https://github.com/timmysGit/Tiktok-demo-react-native/blob/master/tiktokfeed.gif" alt="demo" height="425">
 
 </div>
 
